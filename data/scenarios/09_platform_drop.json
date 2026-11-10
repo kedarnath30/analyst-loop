@@ -1,0 +1,1 @@
+{"daily":{"days":56,"drop":{"magnitude":-0.12,"platform":"iOS","start_day":42}},"expected":"ITERATE","id":"09_platform_drop","kind":"monitor","metric":"dau","name":"Metric drop diagnosed to one platform, iterate","seed":19}
